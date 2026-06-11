@@ -69,7 +69,7 @@ amrco/
 ### 1. Install
 
 ```bash
-git clone https://github.com/yourusername/amrco.git
+git clone https://github.com/echintu1/AgenticRepo.git
 cd amrco
 pip install -r requirements.txt
 ```
@@ -121,13 +121,13 @@ No proprietary data or API keys required to reproduce results.
 ## Citation
 
 ```bibtex
-@article{kumar2025amrco,
+@article{Ranjan2026amrco,
   title={Adaptive Multi-Tier RAG Cost Optimization for Enterprise LLM Systems:
          Architecture, Benchmarking, and Production Case Studies},
-  author={Kumar, Ranjan},
+  author={Chittaranjan, Edara},
   journal={IEEE Access},
-  year={2025},
-  note={Under Review}
+  year={2026},
+  
 }
 ```
 

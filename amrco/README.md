@@ -5,8 +5,8 @@
 [![IEEE Access](https://img.shields.io/badge/Target-IEEE%20Access-blue)](https://ieeeaccess.ieee.org/)
 
 > **Paper:** *Adaptive Multi-Tier RAG Cost Optimization for Enterprise LLM Systems: Architecture, Benchmarking, and Production Case Studies*
-> **Authors:** Ranjan Kumar
-> **Status:** Under Review — IEEE Access 2025
+> **Authors:** Chittaranjan Edara
+> **Status:** Under Review — IEEE Access 2026
 
 ---
 
